@@ -27,9 +27,13 @@
 		"afterPeace": "We have bridged yet another chasm that was holding our species back. Cheers for unity! For peace!",
 		"tradeRequest": "Sharing is caring.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"outerColor": [68,135,119],
+		"innerColor": [143,8,8],
+		
+		"favoredReligion": "Sikhism",
+		"uniqueName": "Thorns of Conciliation",
+		"uniques": ["[+2 Science] from every [Great Improvement]",
+			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
