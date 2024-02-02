@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Poison Blow Gun",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Syrosia",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
+		"strength": 60,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
+		"cost": 380,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "arrow"
 	}
 ]
